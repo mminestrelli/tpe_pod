@@ -1,0 +1,31 @@
+# All directories should end in / (information used by ide.gradle)
+# Java
+*.class
+
+# Ant
+ant/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode
+
+# IDEA
+*.iws
+*.ipr
+*.iml
+.idea/
+out/
+# Mac files
+.DS_Store
